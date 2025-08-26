@@ -17,7 +17,7 @@ export default function Header() {
             <TouchableOpacity style={styles.notificationWrapper}>
                 <Image source={require('../../assets/sino.png')} style={styles.icon} />
                 <View style={styles.badge}>
-                    <Text style={styles.badgeText}>1</Text>
+                    <Text style={styles.badgeText}>3</Text>
                 </View>
             </TouchableOpacity>
 
