@@ -9,7 +9,7 @@ export default function CategoriesBar() {
     { key: "tudo", label: "Tudo" },
     { key: "musica", label: "Música" },
     { key: "jogos", label: "Jogos" },
-    { key: "sm", label: "SM Entertainment" },
+    { key: "sm", label: "Kimetsu No Yaiba" },
   ];
 
   return (

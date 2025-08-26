@@ -20,9 +20,9 @@ export default function App() {
 
   const shorts = [
     { thumbnail: require("./assets/frameshort1.jpg"), title: "Allison Janney devours every single role!" },
-    { thumbnail: require("./assets/frameshort1.jpg"), title: "Docinhos decorados lindos 😍" },
-    { thumbnail: require("./assets/frameshort1.jpg"), title: "Clipe novo estourado 🔥" },
-    { thumbnail: require("./assets/frameshort1.jpg"), title: "Cachorro engraçado 🐶" },
+    { thumbnail: require("./assets/frameshort1.jpg"), title: "Allison Janney devours every single role!" },
+    { thumbnail: require("./assets/frameshort1.jpg"), title: "Allison Janney devours every single role!" },
+    { thumbnail: require("./assets/frameshort1.jpg"), title: "Allison Janney devours every single role!" },
   ];
 
   return (
